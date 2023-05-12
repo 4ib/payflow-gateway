@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <doc>
     <assembly>
-        <name>Payflow_dotNET</name>
+        <name>Payflow_dotNET_v5</name>
     </assembly>
     <members>
         <member name="T:PayPal.Payments.Common.Context">
