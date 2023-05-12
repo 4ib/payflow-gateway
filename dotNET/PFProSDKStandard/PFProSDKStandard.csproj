@@ -2,6 +2,15 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>PayflowProSDK.Standard</PackageId>
+    <Version>5.2.0</Version>
+    <Authors>PayPal</Authors>
+    <Company>PayPal</Company>
+    <Description>A simple SDK allowing easy integration with the Payflow Gateway for .NET.</Description>
+    <PackageProjectUrl>https://github.com/4ib/payflow-gateway</PackageProjectUrl>
+    <PackageTags>Payflow Payflow_Gateway</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Title>Payflow Pro dotNET SDK</Title>
   </PropertyGroup>
 
   <ItemGroup>
