@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFrameworks>net48;netstandard2.0</TargetFrameworks>
     <PackageId>PayflowProSDK.Standard</PackageId>
-    <Version>5.2.1</Version>
+    <Version>5.2.3</Version>
     <Authors>PayPal</Authors>
     <Company>PayPal</Company>
     <Description>A simple SDK allowing easy integration with the Payflow Gateway for .NET.</Description>
@@ -11,6 +11,7 @@
     <PackageTags>Payflow Payflow_Gateway</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Title>Payflow Pro dotNET SDK</Title>
+    <PackageReleaseNotes>'transaction_response.Type' threw an exception of type 'System.StackOverflowException' fix</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
