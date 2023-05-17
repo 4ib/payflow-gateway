@@ -1194,7 +1194,7 @@ namespace PayPal.Payments.DataObjects
         /// </remarks>
         public String Type
         {
-            get { return Type; }
+            get { return mType; }
         }
         /// <summary>
         /// Gets the Affluent parameter
